@@ -1,3 +1,4 @@
+// const baseURL = import.meta.env.API_URL;
 const baseURL = "https://json-api.uz/api/project/fn28";
 
 //Get all
